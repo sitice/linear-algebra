@@ -1,8 +1,6 @@
-
-
 import os
 import shutil
-path = "./行列式"  # 文件夹目录
+path = "./相似矩阵及二次型"  # 文件夹目录
 files = os.listdir(path)  # 得到文件夹下的所有文件名
 
 # 创建文件夹
